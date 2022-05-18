@@ -7,8 +7,8 @@
 - 💬 Ask me about ...
 -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Veronjca)<p></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronjca&show_icons=true&theme=tokyonight)<p></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veronjca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronjca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)<p></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veronjca&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 How to reach me:<p></p>
