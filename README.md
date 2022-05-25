@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Veronica, nice to meet you! :blush: Currently styding C# since Jan 2021 via SoftUni courses. Very motivated and hardworking person, perfectionist and dedicated to everything I do. Don't hesitate to contact me if you need to! :two_hearts:
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
