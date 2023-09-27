@@ -1,5 +1,8 @@
 ### Hi there 👋
-My name is Veronica, nice to meet you! :blush: Currently studying C# since Jan 2021 via SoftUni courses. Very motivated and hardworking person, perfectionist and dedicated to everything I do. Don't hesitate to contact me if you need to! :two_hearts:
+<p>My name is Veronica, nice to meet you! :blush: </p>
+<p>Currently studying in SoftUni and working as Junior Full Stack Developer at We Love Digi.  </p>
+<p>Very motivated and hardworking person, perfectionist and dedicated to everything I do. </p>
+<p>Don't hesitate to contact me if you need to! :two_hearts:</p>
 
 <!--
 - 🔭 I’m currently working on ...
