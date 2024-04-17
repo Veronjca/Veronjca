@@ -25,6 +25,8 @@
 |[Entity Framework Core](https://softuni.bg/certificates/details/138389/37ec2063) | August 2022 | 6.00 |
 |[ASP.NET Fundamentals](https://softuni.bg/certificates/details/146617/7c0f6710) | October 2022 | 6.00 |
 |[ASP.NET Advanced](https://softuni.bg/certificates/details/152341/59848729) | December 2022 | 6.00 |
+|[Containers and Cloud](https://softuni.bg/certificates/details/207070/ab3313c2) | March 2024 | 5.80 |
+|[Software Engineering and DevOps](https://softuni.bg/certificates/details/213403/3db35d17) | April 2022 | 6.00 |
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronjca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)<p></p>
